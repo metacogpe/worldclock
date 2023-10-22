@@ -1,0 +1,28 @@
+
+h1 {
+    text-align: center;
+  }
+  
+  #clocks span {
+      display: inline-block;
+      width: 100px; 
+      text-align: center;
+  }
+  
+  .clock {
+      text-align: center; 
+      padding: 10px 20px;
+      border-radius: 5px;
+      background: #f4f4f4;
+      margin: 10px;
+    }
+  
+    .clock span {
+      display: inline-block;
+      width: 100px;
+      text-align: center; 
+    }
+    
+  
+  
+  

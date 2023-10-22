@@ -1,0 +1,19 @@
+{
+  "name": "worldclock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "mustache": "^4.2.0",
+    "mustache-express": "^1.3.2",
+    "timezone": "^1.0.23"
+  }
+}
